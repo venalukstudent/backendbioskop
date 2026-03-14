@@ -21,9 +21,9 @@ public class Film {
 
     public int getHargaByHari(String jenisHari) {
         if (jenisHari.equalsIgnoreCase("weekend")) {
-            return hargaTiket + 10000; // weekend lebih mahal
+            return hargaTiket + 10000; 
         } else {
-            return hargaTiket; // weekday normal
+            return hargaTiket; 
         }
     }
 

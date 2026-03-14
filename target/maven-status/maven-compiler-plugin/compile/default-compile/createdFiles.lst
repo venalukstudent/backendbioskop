@@ -1,0 +1,7 @@
+com\bioskop\bioskopapi\model\Film.class
+com\bioskop\bioskopapi\controller\PemesananController.class
+com\bioskop\bioskopapi\repository\PemesananRepository.class
+com\bioskop\bioskopapi\repository\FilmRepository.class
+com\bioskop\bioskopapi\controller\FilmController.class
+com\bioskop\bioskopapi\BioskopApiApplication.class
+com\bioskop\bioskopapi\model\Pemesanan.class
